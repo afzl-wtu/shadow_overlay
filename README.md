@@ -3,8 +3,11 @@ A Flutter Package to show a Gradient Shadow on your Images or Widgets.
 ## Features
 
 The package is straight Forward. It puts shadow (Default White) on your Image or Widget. Which makes it beautiful and fuses your image or widget with background.
-[![1](resources/sample1.png)]
-[![2](resources/sample2.png)]
+
+
+![1](resources/sample1.png)
+
+![2](resources/sample2.png)
 
 ## Getting started
 
