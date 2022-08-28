@@ -5,9 +5,7 @@ A Flutter Package to show a Gradient Shadow on your Images or Widgets.
 The package is straight Forward. It puts shadow (Default White) on your Image or Widget. Which makes it beautiful and fuses your image or widget with background.
 
 
-![1](https://raw.githubusercontent.com/afzl-wtu/shadow_overlay/main/resources/sample1.png)
-
-![2](https://raw.githubusercontent.com/afzl-wtu/shadow_overlay/main/resources/sample2.png)
+![1](https://raw.githubusercontent.com/afzl-wtu/shadow_overlay/main/resources/sample1.png)    <-------->   ![2](https://raw.githubusercontent.com/afzl-wtu/shadow_overlay/main/resources/sample2.png)
 
 ## Getting started
 
@@ -30,3 +28,7 @@ ShadowOverlay(
 ## Additional information
 
 Documentaion is also provided within the code you can search more options just hovering over your mouse at properties of ShadowOverlay object.
+
+## Tags
+Gradient Transparency , Transparent Gradient , Transparent Image , Image Transparency , Transparent Widget , Transparent overlay , Transparency overlay
+Transparent Shadow, Gradient Shadow , Gradual Transparency , Color overlay over image, transparency effect over image
