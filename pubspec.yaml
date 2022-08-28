@@ -1,6 +1,6 @@
 name: shadow_overlay
 description: Package to beautify your images or widgets. It overlays background color which actually you provide, image or widget seems like transparent (in a gradient style). 
-version: 1.0.1
+version: 1.0.5
 homepage: https://github.com/afzl-wtu/shadow_overlay
 
 environment:
